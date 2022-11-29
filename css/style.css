@@ -7,9 +7,7 @@ Developed in NYC
 
 */
 
-html {
-	/* set up a background image */
-	
+body{
 	/*background: url('../images/cookie-monster.jpg') no-repeat;*/
 
 	
@@ -26,6 +24,7 @@ html {
 	background: black;
 	width: 424px;
 	color: white;
+	padding: 10px
 }
 
 h1{
@@ -35,6 +34,7 @@ h1{
 h2{
 	background: #75c1f6
 	color: black;
+	padding: 5px
 }
 
 a{
